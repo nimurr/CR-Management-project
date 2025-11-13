@@ -6,8 +6,8 @@ const Hero = () => {
             <div className='container flex items-center justify-center h-full py-10'>
                 <div className=' max-w-[1000px] p-5'>
                     <div className='sm:text-5xl text-3xl lg:text-7xl text-center'>
-                        <h2>Manage Your education </h2>
-                        <h2>Smarter with <span className='text-blue-600'>Our CR</span></h2>
+                        <h2 className='leading-[1.2]'>Manage Your Education </h2>
+                        <h2 className='leading-[1.2]'>Smarter with <span className='text-blue-600'> CR</span> Management System</h2>
                     </div>
                     <p className='text-center my-5 text-gray-500'>A simple platform for Class Representatives to organize classes, announcements, and student issues — all in one place.</p>
                     <div className='flex items-center justify-center gap-2 lg:gap-5 flex-wrap'>
