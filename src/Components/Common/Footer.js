@@ -2,10 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus molestias ullam facere explicabo modi blanditiis ea fuga atque. Dolorum assumenda magnam totam voluptatibus quos, cupiditate at tenetur porro expedita?
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus molestias ullam facere explicabo modi blanditiis ea fuga atque. Dolorum assumenda magnam totam voluptatibus quos, cupiditate at tenetur porro expedita?
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus molestias ullam facere explicabo modi blanditiis ea fuga atque. Dolorum assumenda magnam totam voluptatibus quos, cupiditate at tenetur porro expedita?
+        <div className='text-center text-blue-500 py-10 bg-gray-700'>
+            <h2>Footer is Comming soon !!!</h2>
         </div>
     );
 }
