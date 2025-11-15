@@ -3,7 +3,7 @@ import React from 'react';
 const OurCRinNumbers = () => {
     return (
         <div className='bg-[#4343ff0e]'>
-            <div className='container mt-16 md:px-0 px-5 py-10 md:py-20 mx-auto flex items-center gap-20'>
+            <div className='container mt-16 md:px-0 px-5 py-10 md:py-20 mx-auto space-y-5 lg:flex items-center gap-20'>
                 <div className='lg:w-1/2'>
                     <h2 className='text-5xl font-medium'>Our CR in <span className='text-blue-500'>Numbers</span></h2>
                     <p className='py-2 text-gray-600'>A simple idea that’s making class management smarter. These numbers show how YOUR CR is helping Class Representatives and students stay more connected every day.</p>
